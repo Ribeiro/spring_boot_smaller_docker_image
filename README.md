@@ -35,4 +35,4 @@ content-type: application/json
   "name": "",
   "email": "hi.sou"
 }
-```
+```# spring_boot_smaller_docker_image
